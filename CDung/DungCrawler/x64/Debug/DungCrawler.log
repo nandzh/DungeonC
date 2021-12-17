@@ -1,0 +1,4 @@
+﻿  DungCrawler.cpp
+X:\C++\DungCrawler\DungCrawler\DungCrawler\DungCrawler.cpp(93,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+X:\C++\DungCrawler\DungCrawler\DungCrawler\DungCrawler.cpp(106,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DungCrawler.vcxproj -> X:\C++\DungCrawler\DungCrawler\x64\Debug\DungCrawler.exe
